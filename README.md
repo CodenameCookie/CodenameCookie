@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodenameCookie
-- 👀 I’m interested in Github
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on Github
+- 👀 I’m interested in integrating everything
+- 🌱 I’m currently learning GitHub
+- 💞️ I’m looking to collaborate on AI and time series trading
 - 📫 How to reach me Github
