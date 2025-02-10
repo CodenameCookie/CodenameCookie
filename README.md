@@ -2,4 +2,4 @@
 - 👀 I’m interested in integrating everything
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on AI and time series trading
-- 📫 How to reach me Github
+- 📫 How to reach me: Github
