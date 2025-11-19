@@ -4,7 +4,7 @@ I’m a hands-on coder, data tinkerer, and builder of systems that blend **AI**,
 **sports-trading analytics**, and **developer tooling**. I enjoy turning complex  
 ideas into pipelines, models, and tools that actually work in the real world.
 
-Right now I’m building **TaskVance** — a fast, code-aware project execution engine  
+Right now I’m building **TaskVance** - a fast, code-aware project execution engine  
 designed for developer teams. I’m also developing advanced **Betfair greyhound  
 trading strategies**, mixing time-series analysis, feature engineering,  
 probabilistic modelling, and algorithmic staking systems.
