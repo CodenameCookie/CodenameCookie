@@ -97,7 +97,7 @@ multi-tenant Azure issues (ghost domains, OIDC links, billing cross-tenant).
 
 ## 📬 Contact
 
-- **GitHub**: [github.com/garyvance](https://github.com/garyvance)  
+- **GitHub**: [CodenameCookie](CodenameCookie)  
 - **Email**: (add when ready)  
 - **Website**: taskvance.com (in progress)  
 
