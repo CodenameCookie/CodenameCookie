@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gary
+# 👋 Hi, I’m Gary. Aka CodenameCookie. Aka me.
 
 I’m a hands-on coder, data tinkerer, and builder of systems that blend **AI**,  
 **sports-trading analytics**, and **developer tooling**. I enjoy turning complex  
